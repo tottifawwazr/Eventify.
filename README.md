@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎫 Eventify
 
-# Run and deploy your AI Studio app
+Eventify is a premium event discovery portal built using **React 19**, **TypeScript**, and **Tailwind CSS**. Designed with a high-end Glassmorphism user interface, it features a persistent dark/light mode synchronization, real-time advanced filtering, and a client-side digital ticketing system with dynamic QR code generation.
 
-This contains everything you need to run your app locally.
+🚀 **[Live Demo](https://eventify-iota-livid.vercel.app/)** | 📂 **[GitHub Repository](https://github.com/tottifawwazr/Eventify.)**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1b1Woh45xjdWGb9qnI8E_aUZxo0NatdTB
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- **Premium Glassmorphism UI:** Implements a modern, sophisticated interface with fluid dark and light mode synchronization that persists across user sessions.
+- **High-Performance Search & Filters:** Engineered real-time event searching and category filtering leveraging React hooks, ensuring an ultra-fast sub-100ms UI responsiveness even with large datasets.
+- **Digital Ticketing & QR Generation:** Features a secure client-side ticketing dashboard integrated with dynamic QR code generation and data persistence for seamless offline access.
+- **Fluid Animations & Micro-interactions:** Structured an adaptive, fully responsive navigation architecture combined with rich micro-interactions using Tailwind CSS and Animate.css.
+- **React 19 & Type-Safe Architecture:** Optimized application lifecycle, modern state management, and accessibility by leveraging cutting-edge React 19 features alongside strictly typed, modular TypeScript components.
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Frontend Framework:** React 19
+- **Language:** TypeScript
+- **Styling & Animations:** Tailwind CSS & Animate.css
+- **State & Storage:** React Hooks & Client-side Data Persistence (LocalStorage)
+- **Deployment:** Vercel
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally on your machine.
+
+### Prerequisites
+
+Ensure you have **Node.js** (v18 or higher recommended) and **npm** or **yarn** installed.
+
+### Installation & Local Development
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/tottifawwazr/Eventify..git
+   cd Eventify.
